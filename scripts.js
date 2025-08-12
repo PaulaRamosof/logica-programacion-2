@@ -12,8 +12,8 @@ function convertirTemperatura() {
 
     resultado.style.color = "black";
     resultado.innerHTML = `
-      ✅ Grados Kelvin: ${kelvin.toFixed(2)}<br>
-      ✅ Grados Fahrenheit: ${fahrenheit.toFixed(1)}
+      ✅🌡️ Grados Kelvin: ${kelvin.toFixed(2)}<br>
+      ✅🌡️ Grados Fahrenheit: ${fahrenheit.toFixed(1)}
     `;
   }
 }
